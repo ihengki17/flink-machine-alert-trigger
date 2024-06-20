@@ -9,7 +9,7 @@
 ## **Agenda**
 1. [Log into Confluent Cloud](#step-1)
 2. [Create an Environment and Cluster](#step-2)
-3. [Create Flink Compute Pool & ksqlDB](#step-3)
+3. [Create Flink Compute Pool & ksqlDB Cluster](#step-3)
 4. [Create Topics and walk through Confluent Cloud Dashboard](#step-4)
 5. [Create an API Key Pair](#step-5)
 6. [Create Datagen Connectors for Machine Data](#step-6)
@@ -106,7 +106,7 @@ An environment contains clusters and its deployed components such as Apache Flin
 
 ***
 
-## <a name="step-3"></a>Create a Flink Compute Pool
+## <a name="step-3"></a>Create a Flink Compute Pool or ksqlDB Cluster
 
 <details>
     <summary><b>Flink</b></summary>
